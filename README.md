@@ -1,7 +1,7 @@
 
 [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/banner.png" alt="Visit QuantNet">](http://quantlet.de/index.php?p=info)
 
-## [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **LCPinres** [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/d3/ia)
+## [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **COPlcpinres** [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/d3/ia)
 
 
 ```yaml
@@ -39,10 +39,10 @@ Example:
 ```
 
 
-![Picture1](LCPinres1.png)
-![Picture2](LCPinres2.png)
-![Picture3](LCPinres3.png)
-![Picture4](LCPinres4.png)
+![Picture1](COPlcpinres1.png)
+![Picture2](COPlcpinres2.png)
+![Picture3](COPlcpinres3.png)
+![Picture4](COPlcpinres4.png)
 
 
 ```R
